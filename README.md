@@ -41,7 +41,7 @@ A system that watches over elderly users through a camera module of an ESP32-S3 
 ---
 
 ### Hack London (2026)
-** C++ · Kotlin**
+**C++ · Kotlin**
 
 A two-wheeled IoT robot powered by an Arduino Uno Q that evades you to force you out of bed and actually wake up. We built a companion mobile app that lets you set alarms on your phone, but you can only turn them off by physically pressing a button on the robot.
 
