@@ -50,7 +50,7 @@ A two-wheeled IoT robot powered by an Arduino Uno Q that evades you to force you
 
 ---
 
-### The Bridger C8: AgentVerse Hackathon (2026)
+### The Bridger C8: AgentVerse Hackathon (2025)
 **Amazon Transcribe · Gemini API · Neo4j · AI**
 
 An AI-powered web platform built in **24 hours** for the Workplace Trail. It helps information flow between departments and teams, so crucial knowledge doesn't get lost across emails, meetings, chats and scattered documents.
