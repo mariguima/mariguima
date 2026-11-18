@@ -13,11 +13,12 @@ I like building software that is genuinely useful to people. My projects so far 
 
 | Area | Tools |
 |---|---|
-| **Languages** | Python, JavaScript, Kotlin, C++ |
-| **AI / ML** | CNNs, computer vision, sentiment analysis |
-| **Web** | JavaScript, Phaser, Sails, Phaser |
+| **Languages** | Python, JavaScript, Kotlin, C++, C |
+| **AI / ML** | TensorFlow, MobileNetV2, Scikit learn, Numpy, Pandas|
+| **Web** | Flask, Streamlit, Sails, React |
 | **Mobile** | Android Studio, Kotlin |
-| **Workflow** | Git, Agile development |
+| **Dev tools** | VSCode, Docker, Git/Github |
+| **Datasets** | Roboflow, Amazon |
 
 ---
 
@@ -28,7 +29,6 @@ I like building software that is genuinely useful to people. My projects so far 
 
 A system that watches over elderly users through a camera module of an ESP32-S3 board and detects falls with a CNN. When it sees one, it sends a real-time alert to a caregiver's Android app, where the caregiver can confirm if a fall actually occured and take appropriate measures.
 
-- 
 - Trained and built the fall detection model in Python
 - Built the Android companion app in Kotlin and HTML
 - Added a **caregiver confirmation step** to cut down on false alarms
@@ -39,7 +39,15 @@ A system that watches over elderly users through a camera module of an ESP32-S3 
 🔗 [Repository of the camera/ESP32 code](https://github.com/mariguima/BYOP_camera)
 
 ---
+### Sentiment analysis
+**Streamlit · scikit-learn**
 
+Developed an interactive web app that predicts positive or negative sentiment and displays model confidence
+in real time. It was trained on 20,000 Amazon Fine Food Reviews, using an 80/20 train-test split. 
+
+🔗 [Repository](https://github.com/mariguima/sentiment-analysis)
+
+---
 ### Hack London (2026)
 **C++ · Kotlin**
 
